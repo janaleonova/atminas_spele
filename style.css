@@ -6,7 +6,7 @@ h1{
     background: chocolate;
 }
 ul {
-    text-align: :center;
+    text-align: center;
 }
 li{
     display: inline-block;
@@ -16,4 +16,9 @@ li{
     background-color: coral;
     width: 100Px;
     height: 100px;
+    border: solid white 1px;
+}
+.game{
+    width: 350px;
+    background-color: black;
 }
